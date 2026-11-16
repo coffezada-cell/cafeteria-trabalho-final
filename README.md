@@ -2,15 +2,6 @@
 
 Sistema de gerenciamento de cafeteria em C++17 para a atividade de Laboratório de Programação.
 
-## Compilação
-
-No terminal, dentro desta pasta:
-
-```bash
-g++ -std=c++17 -Wall -Wextra -Wpedantic projeto-final.cpp -o cafeteria
-./cafeteria
-```
-
 ## Funcionalidades
 
 - Registro e atendimento de pedidos em fila FIFO.
