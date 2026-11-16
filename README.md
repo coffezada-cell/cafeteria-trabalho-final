@@ -1,6 +1,6 @@
 # Cafeteria — trabalho final
 
-Sistema de gerenciamento de cafeteria em C++17 para a atividade de Laboratório de Programação.
+Sistema de gerenciamento de cafeteria em C++ para a atividade de Laboratório de Programação.
 
 ## Funcionalidades
 
